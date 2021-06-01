@@ -4,7 +4,7 @@
       "determiner"
     ],
     "coll": [
-      "lang_fundamental"
+      "fundamental"
     ],
     "def": [
       "yes",
@@ -19,7 +19,7 @@
       "determiner"
     ],
     "coll": [
-      "lang_fundamental"
+      "fundamental"
     ],
     "def": [
       "no",
@@ -231,7 +231,7 @@
       "preposition"
     ],
     "coll": [
-      "lang_fundamental"
+      "fundamental"
     ],
     "def": [
       "and"
@@ -709,7 +709,7 @@
       "preposition"
     ],
     "coll": [
-      "lang_fundamental"
+      "fundamental"
     ],
     "def": [
       "like",
@@ -729,7 +729,7 @@
       "preposition"
     ],
     "coll": [
-      "lang_fundamental"
+      "fundamental"
     ],
     "def": ["of", "belonging"],
     "neg": []

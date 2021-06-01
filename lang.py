@@ -2,6 +2,7 @@
 # Library imports
 import json
 import string
+import collections
 
 class Lang:
 
@@ -76,10 +77,16 @@ if __name__ == "__main__":
 
     l = Lang()
 
-    eng = "make circle, break apple, fire candle, free spirit"
-    resp = l.translate_string(eng)
-    print(eng)
-    print(resp)
-    print(l.untranslate_string(resp))
+    text = ""
+    od = collections.OrderedDict(sorted(l.data.items()))
+    for word, data in od.items():
+        if len(data["def"]):
+            text += "## {}\n\n".format(word)
+            text += "**Definition:** {}\n\n".format(", ".join(data["def"]))
+            text += "**Classification:** {}, {}\n\n".format(format(", ".join(data["class"])), format(", ".join(data["coll"])))
+            negation = l.NEGATE+word
+            text += "**Negation:** {}\n\n".format("{} ({})".format(negation, l.untranslate_word(negation)) if len(data["neg"]) else "None")
+
+    print(text)
 
     pass
