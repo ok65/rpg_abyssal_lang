@@ -1,0 +1,3007 @@
+{
+  "ye": {
+    "class": [
+      "determiner"
+    ],
+    "coll": [
+      "lang_fundamental"
+    ],
+    "def": [
+      "yes",
+      "agree",
+      "agreement",
+      "harmony"
+    ],
+    "neg": []
+  },
+  "na": {
+    "class": [
+      "determiner"
+    ],
+    "coll": [
+      "lang_fundamental"
+    ],
+    "def": [
+      "no",
+      "disagree",
+      "disagreement",
+      "disharmony"
+    ],
+    "neg": []
+  },
+  "ni": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quantity"
+    ],
+    "def": [
+      "none"
+    ],
+    "neg": []
+  },
+  "getha": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "red"
+    ],
+    "neg": []
+  },
+  "orius": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "orange"
+    ],
+    "neg": []
+  },
+  "ragus": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "yellow"
+    ],
+    "neg": []
+  },
+  "susmi": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "green"
+    ],
+    "neg": []
+  },
+  "balum": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "blue"
+    ],
+    "neg": []
+  },
+  "gurin": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "indigo"
+    ],
+    "neg": []
+  },
+  "fric": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "violet"
+    ],
+    "neg": []
+  },
+  "athas": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "white"
+    ],
+    "neg": []
+  },
+  "hilod": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "color"
+    ],
+    "def": [
+      "black"
+    ],
+    "neg": []
+  },
+  "kalid": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "skilled"
+    ],
+    "neg": ["unskilled"]
+  },
+  "frimu": {
+    "class": [
+      "verb"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "make",
+      "build",
+      "form",
+      "construct"
+    ],
+    "neg": [
+      "unmake",
+      "break",
+      "destroy",
+      "ruin"
+    ]
+  },
+  "esigu": {
+    "class": [
+      "noun",
+      "adjective"
+    ],
+    "coll": [
+      "shape"
+    ],
+    "def": [
+      "circle"
+    ],
+    "syn": [
+      "round",
+      "around"
+    ],
+    "neg": []
+  },
+  "borit": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "salt"
+    ],
+    "neg": []
+  },
+  "atira": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "human"
+    ],
+    "syn": [
+      "person",
+      "people"
+    ],
+    "neg": ["corpse"]
+  },
+  "acher": {
+    "class": [
+      "preposition"
+    ],
+    "coll": [
+      "lang_fundamental"
+    ],
+    "def": [
+      "and"
+    ],
+    "syn": [
+      "with",
+      "include",
+      "including"
+    ],
+    "neg": [
+      "without",
+      "exclude",
+      "excluding"
+    ]
+  },
+  "hiris": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "fire",
+      "flame",
+      "ignite"
+    ],
+    "neg": [
+      "extinguish"
+    ]
+  },
+  "theus": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "candle"
+    ],
+    "neg": []
+  },
+  "guric": {
+    "class": [
+      "preposition"
+    ],
+    "coll": [
+      "land_fundamental"
+    ],
+    "def": [
+      "in",
+      "inside",
+      "within"
+    ],
+    "neg": [
+      "out",
+      "outside",
+      "without"
+    ]
+  },
+  "thege": {
+    "class": [
+      "verb"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "channel",
+      "focus",
+      "draw"
+    ],
+    "neg": []
+  },
+  "roril": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "power",
+      "magick",
+      "magic"
+    ],
+    "neg": []
+  },
+  "resar": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "wytchstone",
+      "witchstone"
+    ],
+    "neg": []
+  },
+  "bas": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "good"
+    ],
+    "neg": [
+      "bad"
+    ]
+  },
+  "sis": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "sleep",
+      "asleep",
+      "sleeping"
+    ],
+    "neg": [
+      "awake",
+      "awaken",
+      "wake",
+      "woke"
+    ]
+  },
+  "ebad": {
+    "class": [
+      "verb"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "follow"
+    ],
+    "neg": [
+      "ignore"
+    ]
+  },
+  "todeg": {
+    "class": [
+      "verb"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "walk",
+      "move"
+    ],
+    "neg": [
+      "stand",
+      "still",
+      "rest"
+    ]
+  },
+  "tha": {
+    "class": [
+      "verb"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "give"
+    ],
+    "neg": [
+      "take"
+    ]
+  },
+  "vigar": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "descriptive"
+    ],
+    "def": [
+      "dark"
+    ],
+    "neg": [
+      "light"
+    ]
+  },
+  "dulme": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "sun"
+    ],
+    "neg": [
+      "moon"
+    ]
+  },
+  "oda": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "spirit",
+      "soul"
+    ],
+    "neg": []
+  },
+  "widir": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "bound",
+      "trapped",
+      "caged",
+      "imprisoned"
+    ],
+    "neg": [
+      "free",
+      "unbound"
+    ]
+  },
+  "vidis": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "near",
+      "close",
+      "adjacent"
+    ],
+    "neg": [
+      "far",
+      "distant"
+    ]
+  },
+  "afrev": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "animal",
+      "beast"
+    ],
+    "neg": []
+  },
+  "athra": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "word"
+    ],
+    "neg": []
+  },
+  "tho": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "group",
+      "collective",
+      "collection"
+    ],
+    "neg": []
+  },
+  "samin": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "ritual",
+      "ceremony",
+      "process"
+    ],
+    "neg": []
+  },
+  "binul": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "demon",
+      "devil",
+      "evil"
+    ],
+    "neg": []
+  },
+  "fridi": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "big",
+      "large"
+    ],
+    "neg": [
+      "small",
+      "little"
+    ]
+  },
+  "widid": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quantity"
+    ],
+    "def": [
+      "many",
+      "lots of",
+      "plenty"
+    ],
+    "neg": [
+      "few",
+      "scant"
+    ]
+  },
+  "erune": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "chain"
+    ],
+    "neg": []
+  },
+  "visas": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "offering",
+      "donation",
+      "sacrifice"
+    ],
+    "neg": []
+  },
+  "hirur": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "powder",
+      "crushed"
+    ],
+    "neg": []
+  },
+  "heodr": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "descriptive"
+    ],
+    "def": [
+      "above",
+      "top"
+    ],
+    "neg": [
+      "under",
+      "below"
+    ]
+  },
+  "henno": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "physical"
+    ],
+    "def": [
+      "smoke",
+      "fumes",
+      "cloud",
+      "fog"
+    ],
+    "neg": []
+  },
+  "winne": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "intent",
+      "will",
+      "desire",
+      "wish",
+      "wanting"
+    ],
+    "neg": []
+  },
+  "ridus": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": [
+      "person",
+      "doer",
+      "operator"
+    ],
+    "neg": []
+  },
+  "thela": {
+    "class": [
+      "adjective"
+    ],
+    "coll": [
+      "quality"
+    ],
+    "def": [
+      "male",
+      "masculine"
+    ],
+    "neg": [
+      "female",
+      "feminine"
+    ]
+  },
+  "win": {
+    "class": [
+      "preposition"
+    ],
+    "coll": [
+      "lang_fundamental"
+    ],
+    "def": [
+      "like",
+      "similar",
+      "akin",
+      "same",
+      "equal"
+    ],
+    "neg": [
+      "unlike",
+      "dissimilar",
+      "unequal"
+    ]
+  },
+  "adis": {
+    "class": [
+      "preposition"
+    ],
+    "coll": [
+      "lang_fundamental"
+    ],
+    "def": ["of", "belonging"],
+    "neg": []
+  },
+  "carus": {
+    "class": [
+      "noun"
+    ],
+    "coll": [
+      "abstract"
+    ],
+    "def": ["time"],
+    "neg": []
+  },
+  "ragil": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "erilu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vidar": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "eutis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "cheod": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ular": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "barik": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hirus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "olf": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "veswu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rodiu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sigun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gelag": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "covin": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "odolu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "regil": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "respa": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ibiba": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "und": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hitri": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "mosab": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gecus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gela": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "car": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sendi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rila": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "suert": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ebran": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rolf": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vando": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "golic": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fleur": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ebard": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gila": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vidiu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "silis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ild": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wilis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "heus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "leucc": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "eregu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "unami": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sabri": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "theut": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gomen": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fila": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hinth": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "henne": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "andus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "beuca": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gaide": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "boder": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gumad": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "beker": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vind": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "egus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "dundo": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wimnu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hel": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hutiz": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "crodi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "bendo": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ungil": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "guleu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "oduma": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "eutha": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "reagi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gebro": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "cus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "dune": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vimer": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "croda": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gedo": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "silt": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "simun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "suerm": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fregn": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rechl": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hibis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "tranu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ereba": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wela": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "suduu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "aneli": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "glis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "cerig": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gouti": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rhigu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "theva": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ovila": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "athev": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "abilg": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hild": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "lus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ostru": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wetei": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "covum": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "egidu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "euric": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "retta": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "athem": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vivur": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "binid": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gussu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "egilm": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ather": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "moldu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hudas": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "nuldu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vilor": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "biran": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "jovet": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ambiu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "saris": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "helli": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "felas": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hithe": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "motha": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gedal": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "beut": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "was": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "tufa": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "guded": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rius": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sand": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gemar": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "undus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gaidu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "orimo": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "kribi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "dulf": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "satis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ormod": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hilas": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thida": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ainde": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sisin": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "humer": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "theud": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "modud": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hilar": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rediu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rand": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "unali": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hudog": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gemer": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hidus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hireg": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ullac": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thegi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "nila": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "suing": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "genne": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vilda": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "duler": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "velus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gaudi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "undid": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "berit": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "oviga": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "redis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thide": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wilda": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thiru": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gadis": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "vurur": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "uleod": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rerun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fridr": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hucer": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "aorid": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hilad": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "geddi": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "reres": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thelt": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "frurd": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "heuti": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "wind": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "widiu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "huthe": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hedun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hiriu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "rimod": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "level": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "theod": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sigil": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "virmo": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "virum": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "bomeh": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "edend": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "munun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "agith": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "cend": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "suind": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gurdu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thas": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "sesig": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "windu": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ter": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thili": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "bius": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hurab": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "higil": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "lido": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hunam": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "heoda": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "borib": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "thaus": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hucar": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "redol": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ressa": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "armun": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "tutha": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "frius": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fried": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "had": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "gouth": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "heuca": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "unela": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "hulf": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "ranoc": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "crori": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  },
+  "fris": {
+    "class": [
+      "unallocated"
+    ],
+    "coll": [
+      "unallocated"
+    ],
+    "def": [],
+    "neg": []
+  }
+}
